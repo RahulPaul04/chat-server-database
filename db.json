@@ -1,0 +1,637 @@
+{
+  "messages": [
+    {
+      "id": "1",
+      "sender": "job",
+      "message": "hello there",
+      "time": "10:30"
+    },
+    {
+      "id": "2",
+      "sender": "bob",
+      "message": "hey there",
+      "time": "11:30"
+    },
+    {
+      "id": "34cc",
+      "name": "bob",
+      "message": "hey hello",
+      "time": "10:30"
+    },
+    {
+      "id": "ab17",
+      "name": "bob",
+      "message": "hey hello",
+      "time": "10:30"
+    },
+    {
+      "id": "9f39",
+      "name": "bob",
+      "message": "hey hello how are you",
+      "time": "10:30"
+    },
+    {
+      "id": "2a03",
+      "name": "bob",
+      "message": "new message",
+      "time": "10:30"
+    },
+    {
+      "id": "5603",
+      "sender": "bob",
+      "message": "new messagehelooo chcking name",
+      "time": "10:30"
+    },
+    {
+      "id": "daaa",
+      "sender": "bob",
+      "message": "another name to check",
+      "time": "10:30"
+    },
+    {
+      "id": "63b6",
+      "sender": "bob",
+      "message": "another message",
+      "time": "10:30"
+    },
+    {
+      "id": "725f",
+      "sender": "job",
+      "message": "these messages are from job",
+      "time": "10:30"
+    },
+    {
+      "id": "05ba",
+      "sender": "job",
+      "message": "another message",
+      "time": "10:30"
+    },
+    {
+      "id": "9284",
+      "sender": "job",
+      "message": "message to check",
+      "time": "10:30"
+    },
+    {
+      "id": "9abf",
+      "sender": "job",
+      "message": "checing time",
+      "time": "12:57 AM"
+    },
+    {
+      "id": "6333",
+      "sender": "job",
+      "message": "anotehre message",
+      "time": "1:15 AM"
+    },
+    {
+      "id": "7497",
+      "sender": "job",
+      "message": "new message",
+      "time": "1:17 AM"
+    },
+    {
+      "id": "0d36",
+      "sender": "job",
+      "message": "lkndlknflkadnlkfnad",
+      "time": "10:18 AM"
+    },
+    {
+      "id": "05a2",
+      "sender": "job",
+      "message": "hello how are you",
+      "time": "10:48 AM"
+    },
+    {
+      "id": "aa92",
+      "sender": "job",
+      "message": "hey how is it going",
+      "time": "10:57 AM"
+    },
+    {
+      "id": "6f54",
+      "sender": "job",
+      "message": "checking....",
+      "time": "11:02 AM"
+    },
+    {
+      "id": "6131",
+      "sender": "job",
+      "message": "hi",
+      "time": "11:03 AM"
+    },
+    {
+      "id": "5c7a",
+      "sender": "job",
+      "message": "h",
+      "time": "11:03 AM"
+    },
+    {
+      "id": "7aee",
+      "sender": "job",
+      "message": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "time": "11:08 AM"
+    },
+    {
+      "id": "f955",
+      "sender": "job",
+      "message": "ljweij pjep j poejrp owejpt jwpjt pwejt pwej iweijt wj wijt p'wijt iwjpt wpi jwpjt pooweet powjetpo jewptj witj iwjtp wjpt wpootj oiwrh roigr jori jgpwrjii jrpgj jr jwpji wup jtpwiejt ohegiejfi",
+      "time": "11:09 AM"
+    },
+    {
+      "id": "bde9",
+      "sender": "job",
+      "message": "oijidjofgijrfjwpefpwoekpf",
+      "time": "11:21 AM"
+    },
+    {
+      "id": "5450",
+      "sender": "job",
+      "message": "h",
+      "time": "11:27 AM"
+    },
+    {
+      "sender": "job",
+      "message": "jhkhk",
+      "time": "1:16 AM",
+      "id": "qnyPKT4"
+    },
+    {
+      "sender": "job",
+      "message": "helo",
+      "time": "1:18 AM",
+      "id": "Y0DCK75"
+    },
+    {
+      "sender": "bob",
+      "message": "hello job",
+      "time": "1:19 AM",
+      "id": "MKobZXh"
+    },
+    {
+      "sender": "job",
+      "message": "hey man",
+      "time": "1:19 AM",
+      "id": "8x6QUxb"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "1:27 AM",
+      "id": "Zc7Wugj"
+    },
+    {
+      "sender": "job",
+      "message": "hey there seems like the chat server is working",
+      "time": "1:28 AM",
+      "id": "fXmzkGb"
+    },
+    {
+      "sender": "bob",
+      "message": "yes seems like it",
+      "time": "1:28 AM",
+      "id": "g-WDlol"
+    },
+    {
+      "sender": "job",
+      "message": "what else",
+      "time": "1:30 AM",
+      "id": "KttuV5l"
+    },
+    {
+      "sender": "john",
+      "message": "hey guys",
+      "time": "1:31 AM",
+      "id": "kWE9-8o"
+    },
+    {
+      "sender": "job",
+      "message": "helo how are you",
+      "time": "1:55 PM",
+      "id": "NeoR8q9"
+    },
+    {
+      "sender": "job",
+      "message": "hjh",
+      "time": "2:27 PM",
+      "id": "vstk-rj"
+    },
+    {
+      "sender": "job",
+      "message": "hey",
+      "time": "2:45 PM",
+      "id": "Y8UcPpX"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "2:56 PM",
+      "id": "CzCGXQw"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "2:57 PM",
+      "id": "sBYDXiq"
+    },
+    {
+      "sender": "bob",
+      "message": "hello there",
+      "time": "6:34 PM",
+      "id": "trMt_xF"
+    },
+    {
+      "sender": "bob",
+      "message": "hry",
+      "time": "6:35 PM",
+      "id": "zPJVwRm"
+    },
+    {
+      "sender": "bob",
+      "message": "hey there another long text",
+      "time": "6:35 PM",
+      "id": "wmSLbi3"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "7:57 PM",
+      "id": "et1WXGQ"
+    },
+    {
+      "sender": "john",
+      "message": "hey man",
+      "time": "7:59 PM",
+      "id": "qzNYc55"
+    },
+    {
+      "sender": "job",
+      "message": "how is everything",
+      "time": "7:59 PM",
+      "id": "2_7oQIi"
+    },
+    {
+      "sender": "job",
+      "message": "hey ",
+      "time": "8:00 PM",
+      "id": "UKKinCY"
+    },
+    {
+      "sender": "john",
+      "message": "how is evertything",
+      "time": "8:01 PM",
+      "id": "M0_lT69"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "GJhu-Z7"
+    },
+    {
+      "sender": "john",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "1az1kt8"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "mXL99QI"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "JI2-MK0"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "mF0FGo4"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "tlHdIOW"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "gy-JWuV"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "COiN-4s"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "oagbEGN"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "8:26 PM",
+      "id": "S2a8f9s"
+    },
+    {
+      "hey there": "",
+      "id": "O0ra46F"
+    },
+    {
+      "hey": "",
+      "id": "jblXpWu"
+    },
+    {
+      "update": "",
+      "id": "AaSvasF"
+    },
+    {
+      "id": "uizudo5",
+      "sender": "bob",
+      "time": "8:42 PM",
+      "message": "update"
+    },
+    {
+      "update hello": "",
+      "id": "YtEPxgo"
+    },
+    {
+      "id": "Z1FZRDr",
+      "sender": "bob",
+      "time": "8:50 PM",
+      "message": "hello updated message"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "9:47 PM",
+      "id": "iot2TdL"
+    },
+    {
+      "sender": "job",
+      "message": "hello there",
+      "time": "9:48 PM",
+      "id": "PaTLDRC"
+    },
+    {
+      "sender": "bob",
+      "message": "hello",
+      "time": "9:50 PM",
+      "id": "dUw9MAy"
+    },
+    {
+      "sender": "bob",
+      "message": "ok ",
+      "time": "9:54 PM",
+      "id": "rpbw9Ts"
+    },
+    {
+      "sender": "bob",
+      "message": "hello",
+      "time": "9:59 PM",
+      "id": "u_DZ2hD"
+    },
+    {
+      "sender": "bob",
+      "message": "hello",
+      "time": "10:00 PM",
+      "id": "62EiNHV"
+    },
+    {
+      "sender": "job",
+      "message": "hey",
+      "time": "10:00 PM",
+      "id": "rmx2OfP"
+    },
+    {
+      "sender": "bob",
+      "message": "hello hey there",
+      "time": "10:27 PM",
+      "id": "vWEZZ3H"
+    },
+    {
+      "id": "ZS18__h",
+      "sender": "bob",
+      "time": "10:28 PM",
+      "message": "helo"
+    },
+    {
+      "sender": "bob",
+      "message": "hey",
+      "time": "10:28 PM",
+      "id": "dDO7RSa"
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "11:18 PM",
+      "id": 1716400084196,
+      "timestamp": 1716400084196
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "11:19 PM",
+      "id": 1716400156782,
+      "timestamp": 1716400156782
+    },
+    {
+      "sender": "job",
+      "message": "hey",
+      "time": "11:19 PM",
+      "id": 1716400189098,
+      "timestamp": 1716400189098
+    },
+    {
+      "sender": "bob",
+      "message": "hello",
+      "time": "11:19 PM",
+      "id": 1716400194433,
+      "timestamp": 1716400194433
+    },
+    {
+      "sender": "job",
+      "message": "hey there",
+      "time": "11:20 PM",
+      "id": 1716400201426,
+      "timestamp": 1716400201426
+    },
+    {
+      "sender": "bob",
+      "message": "hello guys",
+      "time": "11:20 PM",
+      "id": 1716400207281,
+      "timestamp": 1716400207281
+    },
+    {
+      "sender": "job",
+      "message": "hey man",
+      "time": "11:20 PM",
+      "id": 1716400212948,
+      "timestamp": 1716400212948
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "11:27 PM",
+      "id": 1716400647068,
+      "timestamp": 1716400647068
+    },
+    {
+      "sender": "bob",
+      "message": "hey",
+      "time": "11:27 PM",
+      "id": 1716400665913,
+      "timestamp": 1716400665913
+    },
+    {
+      "sender": "job",
+      "message": "hey",
+      "time": "11:30 PM",
+      "id": 1716400824469,
+      "timestamp": 1716400824469
+    },
+    {
+      "sender": "bob",
+      "message": "hello",
+      "time": "11:30 PM",
+      "id": 1716400853185,
+      "timestamp": 1716400853185
+    },
+    {
+      "sender": "job",
+      "message": "hola",
+      "time": "11:31 PM",
+      "id": 1716400860714,
+      "timestamp": 1716400860714
+    },
+    {
+      "sender": "bob",
+      "message": "whats up",
+      "time": "11:31 PM",
+      "id": 1716400865920,
+      "timestamp": 1716400865920
+    },
+    {
+      "sender": "job",
+      "message": "right",
+      "time": "11:31 PM",
+      "id": 1716400882481,
+      "timestamp": 1716400882481
+    },
+    {
+      "sender": "bob",
+      "message": "hey",
+      "time": "11:31 PM",
+      "id": 1716400887416,
+      "timestamp": 1716400887416
+    },
+    {
+      "sender": "job",
+      "message": "hi",
+      "time": "11:31 PM",
+      "id": 1716400891542,
+      "timestamp": 1716400891542
+    },
+    {
+      "sender": "job",
+      "message": "hoi",
+      "time": "11:31 PM",
+      "id": 1716400917182,
+      "timestamp": 1716400917182
+    },
+    {
+      "sender": "bob",
+      "message": "hey",
+      "time": "11:32 PM",
+      "id": 1716400923452,
+      "timestamp": 1716400923452
+    },
+    {
+      "sender": "bob",
+      "message": "whats up",
+      "time": "11:32 PM",
+      "id": 1716400937108,
+      "timestamp": 1716400937108
+    },
+    {
+      "sender": "bob",
+      "message": "hey",
+      "time": "11:35 PM",
+      "id": 1716401124814,
+      "timestamp": 1716401124814
+    },
+    {
+      "sender": "bob",
+      "message": "hello",
+      "time": "11:35 PM",
+      "id": 1716401130818,
+      "timestamp": 1716401130818
+    },
+    {
+      "sender": "job",
+      "message": "hai",
+      "time": "11:35 PM",
+      "id": 1716401135717,
+      "timestamp": 1716401135717
+    },
+    {
+      "sender": "job",
+      "message": "one",
+      "time": "11:35 PM",
+      "id": 1716401140115,
+      "timestamp": 1716401140115
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "11:36 PM",
+      "id": 1716401176496,
+      "timestamp": 1716401176496
+    },
+    {
+      "sender": "job",
+      "message": "fetch",
+      "time": "11:36 PM",
+      "id": 1716401196841,
+      "timestamp": 1716401196841
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "11:37 PM",
+      "id": 1716401268999,
+      "timestamp": 1716401268999
+    },
+    {
+      "sender": "job",
+      "message": "hello",
+      "time": "11:51 PM",
+      "id": 1716402100797,
+      "timestamp": 1716402100797
+    },
+    {
+      "sender": "job",
+      "message": "knkjnk",
+      "time": "12:04 AM",
+      "id": 1716402855805,
+      "timestamp": 1716402855805
+    },
+    {
+      "sender": "job",
+      "message": "ljsjf",
+      "time": "12:06 AM",
+      "id": 1716403005650,
+      "timestamp": 1716403005650
+    }
+  ]
+}
